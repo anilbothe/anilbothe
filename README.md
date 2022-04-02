@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+It's all about me:
 
 - 🔭 I’m currently working on python, selenium automation
 - 🌱 I’m currently react js
